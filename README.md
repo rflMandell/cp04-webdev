@@ -69,7 +69,7 @@ coolsolelog("Oi gente!");
 
 *Rafael Mandel, RM560333*
 
-*Luigi Thinego, RM560755*
+*Luigi Thiengo, RM560755*
 
 *Felipe Silva, RM559848*
 
