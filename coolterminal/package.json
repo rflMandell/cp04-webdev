@@ -1,0 +1,23 @@
+{
+  "name": "coolsolelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cows": "^3.0.1"
+  },
+  "scripts": {
+    "test": "teste.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rflMandell/cp04-webdev.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rflMandell/cp04-webdev/issues"
+  },
+  "homepage": "https://github.com/rflMandell/cp04-webdev#readme",
+  "description": ""
+}
