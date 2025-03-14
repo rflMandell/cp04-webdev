@@ -66,7 +66,5 @@ Sinta-se à vontade para abrir issues e pull requests para melhorias!
 
 Autores
 
-Seu Nome - RA: XXXXXXXX
-
-Nome do Integrante - RA: XXXXXXXX
+nomes aqui jaja coloco (provavelmente amanha)
 
