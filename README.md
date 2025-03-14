@@ -72,7 +72,9 @@ Sinta-se Ã  vontade para abrir **issues** e **pull requests** para melhorias! ðŸ
 ## Autores
 
 *Rafael Mandel, RM560333*
-*Luigi Thinego, RM560755*
-*Felipe Silva, RM559848*
-*Luis Filipe Crivellaro, RM560877*
 
+*Luigi Thinego, RM560755*
+
+*Felipe Silva, RM559848*
+
+*Luis Filipe Crivellaro, RM560877*
