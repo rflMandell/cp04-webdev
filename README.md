@@ -65,10 +65,6 @@ coolsolelog("Oi gente!");
 - **cows** - ASCII cows aleatórias
 
 ---
-## Contribuição
-Sinta-se à vontade para abrir **issues** e **pull requests** para melhorias! 🚀
-
----
 ## Autores
 
 *Rafael Mandel, RM560333*
