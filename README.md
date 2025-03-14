@@ -1,51 +1,55 @@
-Fakename - Gerador de Nomes Fake
+# Fakename - Gerador de Nomes Fake
 
 
+## Descrição
+O **Fakename** é um módulo simples para **Node.js** que gera nomes aleatórios combinando primeiros nomes e sobrenomes fictícios.
 
-Descrição
-
-O fakename é um módulo Node.js simples que gera nomes aleatórios combinando primeiros nomes e sobrenomes fictícios.
-
-Instalação
-
+---
+## Instalação
 Para instalar o módulo, utilize o seguinte comando:
+```sh
+npm install gerador-nomes-fiap
+```
 
-npm install @seu-username/fakename
-
-Uso
-
-Importe o módulo e utilize a função fakename() para gerar nomes aleatórios:
-
-import fakename from "@seu-username/fakename";
+---
+## Uso
+Importe o módulo e utilize a função `fakename()` para gerar nomes aleatórios:
+```javascript
+import fakename from "@lipecrivellaro/fakename";
 
 console.log(fakename());
+```
 
-Exemplo de Saída
+### Exemplo de Saída
+```
+Luigi Amorim
+Luis Lima
+Marcelo Mandel
+```
+---
 
-João Goiaba
-Bia Melão
-Ana Cenoura
-
-Coolsolelog - Console.log Diferenciado
+# Coolsolelog - Console.log Diferenciado
 
 
+## Descrição
+O **Coolsolelog** é um módulo para **Node.js** que melhora a experiência do `console.log`, deixando as mensagens mais **divertidas** e **personalizadas** com **ASCII art** e **cores**!
 
-Descrição
+---
+## Instalação
+```sh
+npm install @rafael-mandel/coolsolelog
+```
 
-O coolsolelog é um módulo Node.js que melhora a experiência de console.log, deixando as mensagens mais divertidas e personalizadas com ASCII art e cores!
-
-Instalação
-
-npm install @seu-username/coolsolelog
-
-Uso
-
-import coolsolelog from "@seu-username/coolsolelog";
+---
+## Uso
+```javascript
+import coolsolelog from "@rafael-mandel/coolsolelog";
 
 coolsolelog("Oi gente!");
+```
 
-Exemplo de Saída
-
+### Exemplo de Saída
+```
  ___________
 /           \
 (  Oi gente  )
@@ -53,18 +57,22 @@ Exemplo de Saída
    \   /
     \/
    ( o _ o )
+```
 
-Dependências
+---
+## Dependências
+- **chalk** - Estiliza textos no terminal
+- **cows** - ASCII cows aleatórias
 
-chalk - Estiliza textos no terminal
+---
+## Contribuição
+Sinta-se à vontade para abrir **issues** e **pull requests** para melhorias! 🚀
 
-cows - ASCII cows aleatórias
+---
+## Autores
 
-Contribuição
-
-Sinta-se à vontade para abrir issues e pull requests para melhorias!
-
-Autores
-
-nomes aqui jaja coloco (provavelmente amanha)
+*Rafael Mandel, RM560333*
+*Luigi Thinego, RM560755*
+*Felipe Silva, RM559848*
+*Luis Filipe Crivellaro, RM560877*
 
